@@ -1,0 +1,15 @@
+PODS:
+  - BmobSDK (2.2.0):
+    - WechatOpenSDK (~> 1.7.7)
+  - WechatOpenSDK (1.7.8)
+
+DEPENDENCIES:
+  - BmobSDK
+
+SPEC CHECKSUMS:
+  BmobSDK: d2f705187e7baafc89dea0c4ba3953549aae4625
+  WechatOpenSDK: ad1e7be1b66416df847ac50830c798b70c9e365e
+
+PODFILE CHECKSUM: a1f279aad3e8f1d14e5588d9a7d9b6c94cc1c0fe
+
+COCOAPODS: 1.2.1
