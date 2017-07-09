@@ -2,7 +2,7 @@
 //  ViewController.m
 //  照相
 //
-//  Created by 潇潇 on 2017/7/4.
+
 //  Copyright © 2017年 武汉职业技术学院. All rights reserved.
 //
 
